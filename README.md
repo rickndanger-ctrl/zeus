@@ -2,7 +2,9 @@
 
 A floating lightning orb for desktop dictation.
 
-**[Download Zeus for macOS](https://github.com/rickndanger-ctrl/zeus/releases/download/v0.1.0/Zeus-0.1.0-macOS.dmg)** · [Release notes](https://github.com/rickndanger-ctrl/zeus/releases/tag/v0.1.0)
+![Zeus lightning orb](Zeus-icon.png)
+
+**[Download Zeus for macOS](https://github.com/rickndanger-ctrl/zeus/releases/download/v0.1.1/Zeus-0.1.1-macOS.dmg)** · [Release notes](https://github.com/rickndanger-ctrl/zeus/releases/tag/v0.1.1)
 
 Developer ID signed and notarized by Apple.
 
